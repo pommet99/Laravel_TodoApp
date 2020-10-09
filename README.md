@@ -5,7 +5,12 @@ Ceci est une application de gestion de tâches en Laravel avec du Bootstrap, l'u
 
 # Installation:
 
-Installer les dépendances avec 'composer install' et 'npm install'.Créer une base de donné avec phpmyadmin. Utiliser le example.env pour créer un fichier .env et remplir les information par rapport au votre base de données, générer une clé de cryptage avec 'php artisan key:generate' et faite la migration avec 'php artisan migrate', dernièrement utiliser 'php artisan serve' pour utiliser le serveur intégré.
+1) 'composer install'
+2) 'npm install'
+3) Créer un fichier .env avec example.env comme exemple, mettre les informations de votre base de donnée.
+4) 'php artisan key:generate'
+5) 'php artisan migrate'
+6) 'php artisan serve'
 
 
 Prameet Manraj
